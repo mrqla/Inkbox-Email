@@ -1,0 +1,201 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-text font-family="arial, helvetica, sans-serif" align="center" padding="0px" />
+            <mj-image padding="0px"/>
+            <mj-section padding="0px"/>
+            <mj-class name="preheader" color="#808080" font-size="10px" padding-top="13px" padding-bottom="13px"/>
+            <mj-class name="savings" color="#ffffff" font-size="16px" padding-bottom="35px" />
+            <mj-class name="buy" color="#ffffff" font-size="16px" font-weight="700" padding-bottom="5px"/>
+        </mj-attributes>
+        
+    </mj-head>    
+
+    <mj-body background-color="#fff">
+    <!-- preheader -->
+    <mj-section text-align="center">
+        <mj-group>
+            <mj-column background-color="#fff">
+                <mj-text mj-class="preheader" >
+                    <span>Can't see this email?</span>
+                    <a href="#" style="color: #808080; text-decoration: underline;">
+                    <span>Click here</span>
+                    </a>
+                    <span>to view online.</span>
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <!-- logo section -->
+    <mj-section>
+        <mj-column>
+            <mj-image src="https://i.imgur.com/0pP8jN2.jpg" alt="Logo" href="https://inkbox.com/p/bts"/>
+        </mj-column>
+    </mj-section>
+
+    <!-- 35% off section -->
+    <mj-section>
+        <mj-column>
+            <mj-image src="https://i.imgur.com/L8pjLGh.jpg" alt="Up to 35% off - Shop Now" href="https://inkbox.com/products/all-tattoos"/>
+        </mj-column>
+    </mj-section>
+
+    <!-- big savings section -->
+    <mj-section background-color="#405e4e">
+        <mj-column padding-right="20px" padding-left="20px">
+            <mj-text color="#ffffff" padding-top="30px" padding-bottom="25px">
+                <h1>
+                This way for BIG savings
+                </h1>
+            </mj-text>
+            <mj-text mj-class="savings">
+                 If you were looking for a sign to buy new tattoos, this is it.
+            </mj-text>
+            <mj-text mj-class="savings">
+                 The more you shop, the more you save.*
+            </mj-text>
+            <mj-text mj-class="buy">
+                  Buy 2 get 15% off
+            </mj-text>
+            <mj-text mj-class="buy">
+                   Buy 3 get 25% off
+            </mj-text>
+            <mj-text mj-class="buy">
+                   Buy 4 get 30% off
+            </mj-text>
+            <mj-text mj-class="buy" padding-bottom="35px">
+                   Buy 5 get 35% off
+            </mj-text>
+            <mj-text mj-class="savings" padding-bottom="40px" line-height="26px">
+                Just add designs to your cart, and this sweet discount will be applied automatically.
+            </mj-text>
+            <mj-image src="https://i.imgur.com/XSk0RJO.png" alt="button" href="https://inkbox.com/products/all-tattoos" width="200px" padding-bottom="40px"/>
+        </mj-column>
+    </mj-section>
+
+    <!-- tear graphic -->
+    <mj-section>
+        <mj-column>
+            <mj-image src="https://i.imgur.com/2o5xDfr.jpg" />
+        </mj-column>
+    </mj-section>
+
+    <!-- popular  header -->
+    <mj-section padding-top="30px"  background-color="#353535">
+        <mj-column >
+            <mj-text color="#ffffff" padding-bottom="10px" padding-right="20px" padding-left="20px">
+                <h1>
+                Save on popular categories
+                </h1>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <!-- popular row 1 -->
+    <mj-section padding-right="15px" padding-left="15px" background-color="#353535">
+        <mj-group>
+            <mj-column padding-right="5px" padding-left="5px" padding-top="10px" padding-bottom="10px">
+            <mj-image src="https://i.imgur.com/lIQ9Hip.jpg" alt="butterfly" href="https://inkbox.com/products/all-tattoos"/>
+            </mj-column>
+            <mj-column padding-right="5px" padding-left="5px" padding-top="10px" padding-bottom="10px">
+                <mj-image src="https://i.imgur.com/LURf1nb.jpg" alt="lion" href="https://inkbox.com/products/all-tattoos"/>
+            </mj-column>
+            <mj-column padding-right="5px" padding-left="5px" padding-top="10px" padding-bottom="10px">
+                <mj-image src="https://i.imgur.com/Sq1aUmu.jpg" alt="geo" href="https://inkbox.com/products/all-tattoos"/>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <!-- popular row 2 -->
+    <mj-section padding-right="15px" padding-left="15px" padding-bottom="40px" background-color="#353535">
+        <mj-group>
+            <mj-column padding-right="5px" padding-left="5px" padding-top="10px" padding-bottom="10px">
+            <mj-image src="https://i.imgur.com/0CJAd5y.jpg" alt="be kind" href="https://inkbox.com/products/all-tattoos"/>
+            </mj-column>
+            <mj-column padding-right="5px" padding-left="5px" padding-top="10px" padding-bottom="10px">
+                <mj-image src="https://i.imgur.com/lLMajVV.jpg" alt="dragon" href="https://inkbox.com/products/all-tattoos"/>
+            </mj-column>
+            <mj-column padding-right="5px" padding-left="5px" padding-top="10px" padding-bottom="10px">
+                <mj-image src="https://i.imgur.com/wqmOX4N.jpg" alt="heart" href="https://inkbox.com/products/all-tattoos"/>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <!-- footer referral -->
+    <mj-section>
+        <mj-column>
+            <mj-image src="https://i.imgur.com/hY7q0OV.jpg" href="https://inkbox.com/products/all-tattoos"/>
+        </mj-column>
+    </mj-section>
+
+    <!-- footer social -->
+    <mj-section background-color="#212121" padding-top="30px">
+        <mj-column>
+            <mj-text>
+                <a href="https://inkbox.com/products/all-tattoos" style="text-decoration: none;">
+                    <img src="https://i.imgur.com/k9Tulmb.png" width="32px" style="padding: 5px;"/>
+                </a>
+                <a href="https://inkbox.com/products/all-tattoos" style="text-decoration: none;">
+                    <img src="https://i.imgur.com/wH2wOvd.png" width="28px" style="padding: 5px;"/>
+                </a>
+                <a href="https://inkbox.com/products/all-tattoos" style="text-decoration: none;">
+                    <img src="https://i.imgur.com/LRF8jzH.png" width="24px" style="padding: 5px;"/>
+                </a>
+                <a href="https://inkbox.com/products/all-tattoos" style="text-decoration: none;">
+                    <img src="https://i.imgur.com/bGFC9pX.png" width="32px" style="padding: 5px;"/>
+                </a>
+                <a href="https://inkbox.com/products/all-tattoos" style="text-decoration: none;">
+                    <img src="https://i.imgur.com/q5mJVuK.png" width="32px" style="padding: 5px;"/>
+                </a>
+                <a href="https://inkbox.com/products/all-tattoos" style="text-decoration: none;">
+                    <img src="https://i.imgur.com/Febv3sz.png" width="32px" style="padding: 5px;"/>
+                </a>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <!-- footer quick links -->
+    <mj-section background-color="#212121" padding-top="35px" padding-bottom="30px">
+        <mj-column>
+            <mj-text color="white">
+                <a href="https://inkbox.com/products/all-tattoos" style="color: white !important; text-decoration: none;">
+                    <span style="padding: 10px; text-decoration: underline;"> Shipping</span>
+                </a>
+                <a href="https://inkbox.com/products/all-tattoos" style="color: white !important; text-decoration: none;">
+                    <span style="padding: 10px; text-decoration: underline;"> FAQ</span>
+                </a>
+                <a href="https://inkbox.com/products/all-tattoos" style="color: white !important; text-decoration: none;">
+                    <span style="padding: 10px; text-decoration: underline;"> Returns</span>
+                </a>
+                <a href="https://inkbox.com/products/all-tattoos" style="color: white !important; text-decoration: none;">
+                    <span style="padding: 10px; text-decoration: underline;"> Contact Us</span>
+                </a>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <!-- footer text -->
+    <mj-section background-color="#212121">
+        <mj-column>    
+            <mj-text>
+                <p style="margin:10px; padding-bottom:0px; text-align: center; color:#808080; font-size:11px; line-height: 14px"> Copyright © 2020 Inkbox ink inc. No longer want to receive these emails?
+                    <a href="https://inkbox.com/products/all-tattoos" style="text-decoration: none; color:#808080;">
+                        <span>Unsubscribe Here</span>
+                    </a>  
+                </p>
+            </mj-text>
+            <mj-text>
+                <p style="margin:10px; padding-bottom:0px; text-align: center; color:#808080; font-size:11px; line-height: 14px"> Remember to add hi@e.inkbox.com to your safe senders list!</p>
+            </mj-text>
+            <mj-text>
+                <p style="margin:10px; padding-bottom:10px; text-align: center; color:#808080; font-size:11px; line-height: 14px"> inkbox ink inc. 393 King Street West Floor 2 Toronto, ON, M5V 3G8</p>
+            </mj-text>
+            <mj-text color="#ffffff" font-size="10px" padding="10px 20px" line-height="18px">
+                <span>*Offer does not apply to Sale Tattoos, Catalog Tattoo Bundles, Custom Tattoo Bundles, Finger Packs, Premium Collections, or Gift Cards. Offer cannot be combined with other discounts or Inkbucks. Discount automatically applied at checkout.</span>
+            </mj-text>
+            <mj-image src="https://i.imgur.com/NV2d46i.png" alt="Logo" width="150px" padding="10px 0 30px"/>
+        </mj-column>
+    </mj-section>
+    </mj-body>
+</mjml>
